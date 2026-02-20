@@ -1,0 +1,13 @@
+div {
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.loading {
+    width: 80px;
+}
+img {
+    width: 30%;
+    height: auto;
+}
